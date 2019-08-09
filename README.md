@@ -12,4 +12,6 @@ Sample website with plenty of files for demos
 
 This is example
 
+### Copyright
 
+2014 Git.Training.
